@@ -14,7 +14,7 @@ html,body{
 .main{
     height:70vh;
     width: 25vw;
-    background-color: rgb(92, 175, 224);
+    background-color: rgba(198, 228, 245, 0.678);
     border-radius: 15PX;
 }
 .main:hover{
